@@ -1,0 +1,3 @@
+Name: John Doe, Phone: 1234567890, Email: john@example.com
+Name: Alice Smith, Phone: 9876543210, Email: alice@example.com
+Name: k.Nikitha, Phone: 7032470924, Email: niki1234@gmail.com
